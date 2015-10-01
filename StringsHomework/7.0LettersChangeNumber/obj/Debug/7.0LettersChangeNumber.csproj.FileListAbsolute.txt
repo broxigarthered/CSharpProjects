@@ -1,0 +1,12 @@
+c:\users\niki\documents\visual studio 2013\Projects\Strings And Text Processing\7.0LettersChangeNumber\bin\Debug\7.0LettersChangeNumber.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\Strings And Text Processing\7.0LettersChangeNumber\bin\Debug\7.0LettersChangeNumber.exe
+c:\users\niki\documents\visual studio 2013\Projects\Strings And Text Processing\7.0LettersChangeNumber\bin\Debug\7.0LettersChangeNumber.pdb
+c:\users\niki\documents\visual studio 2013\Projects\Strings And Text Processing\7.0LettersChangeNumber\obj\Debug\7.0LettersChangeNumber.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2013\Projects\Strings And Text Processing\7.0LettersChangeNumber\obj\Debug\7.0LettersChangeNumber.exe
+c:\users\niki\documents\visual studio 2013\Projects\Strings And Text Processing\7.0LettersChangeNumber\obj\Debug\7.0LettersChangeNumber.pdb
+D:\Projects\Projects\Strings and Text Processing\7.0LettersChangeNumber\bin\Debug\7.0LettersChangeNumber.exe.config
+D:\Projects\Projects\Strings and Text Processing\7.0LettersChangeNumber\obj\Debug\7.0LettersChangeNumber.exe
+D:\Projects\Projects\Strings and Text Processing\7.0LettersChangeNumber\obj\Debug\7.0LettersChangeNumber.pdb
+D:\Projects\Projects\Strings and Text Processing\7.0LettersChangeNumber\bin\Debug\7.0LettersChangeNumber.exe
+D:\Projects\Projects\Strings and Text Processing\7.0LettersChangeNumber\bin\Debug\7.0LettersChangeNumber.pdb
+D:\Projects\Projects\Strings and Text Processing\7.0LettersChangeNumber\obj\Debug\7.0LettersChangeNumber.csprojResolveAssemblyReference.cache
