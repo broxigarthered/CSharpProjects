@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2015\Projects\RegularExpression\1.0SeriesOfletters\bin\Debug\1.0SeriesOfletters.exe.config
+c:\users\niki\documents\visual studio 2015\Projects\RegularExpression\1.0SeriesOfletters\bin\Debug\1.0SeriesOfletters.exe
+c:\users\niki\documents\visual studio 2015\Projects\RegularExpression\1.0SeriesOfletters\bin\Debug\1.0SeriesOfletters.pdb
+c:\users\niki\documents\visual studio 2015\Projects\RegularExpression\1.0SeriesOfletters\obj\Debug\1.0SeriesOfletters.exe
+c:\users\niki\documents\visual studio 2015\Projects\RegularExpression\1.0SeriesOfletters\obj\Debug\1.0SeriesOfletters.pdb

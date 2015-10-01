@@ -1,0 +1,6 @@
+c:\users\niki\documents\visual studio 2015\Projects\RegularExpression\Test\bin\Debug\Test.exe.config
+c:\users\niki\documents\visual studio 2015\Projects\RegularExpression\Test\bin\Debug\Test.exe
+c:\users\niki\documents\visual studio 2015\Projects\RegularExpression\Test\bin\Debug\Test.pdb
+c:\users\niki\documents\visual studio 2015\Projects\RegularExpression\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2015\Projects\RegularExpression\Test\obj\Debug\Test.exe
+c:\users\niki\documents\visual studio 2015\Projects\RegularExpression\Test\obj\Debug\Test.pdb

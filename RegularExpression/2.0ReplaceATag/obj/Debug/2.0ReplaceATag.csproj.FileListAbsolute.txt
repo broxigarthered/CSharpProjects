@@ -1,0 +1,6 @@
+c:\users\niki\documents\visual studio 2015\Projects\RegularExpression\2.0ReplaceATag\bin\Debug\2.0ReplaceATag.exe.config
+c:\users\niki\documents\visual studio 2015\Projects\RegularExpression\2.0ReplaceATag\bin\Debug\2.0ReplaceATag.exe
+c:\users\niki\documents\visual studio 2015\Projects\RegularExpression\2.0ReplaceATag\bin\Debug\2.0ReplaceATag.pdb
+c:\users\niki\documents\visual studio 2015\Projects\RegularExpression\2.0ReplaceATag\obj\Debug\2.0ReplaceATag.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2015\Projects\RegularExpression\2.0ReplaceATag\obj\Debug\2.0ReplaceATag.exe
+c:\users\niki\documents\visual studio 2015\Projects\RegularExpression\2.0ReplaceATag\obj\Debug\2.0ReplaceATag.pdb

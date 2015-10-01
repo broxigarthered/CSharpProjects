@@ -1,0 +1,6 @@
+c:\users\niki\documents\visual studio 2015\Projects\RegularExpression\4.0SentanceExtractor\bin\Debug\4.0SentanceExtractor.exe.config
+c:\users\niki\documents\visual studio 2015\Projects\RegularExpression\4.0SentanceExtractor\bin\Debug\4.0SentanceExtractor.exe
+c:\users\niki\documents\visual studio 2015\Projects\RegularExpression\4.0SentanceExtractor\bin\Debug\4.0SentanceExtractor.pdb
+c:\users\niki\documents\visual studio 2015\Projects\RegularExpression\4.0SentanceExtractor\obj\Debug\4.0SentanceExtractor.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2015\Projects\RegularExpression\4.0SentanceExtractor\obj\Debug\4.0SentanceExtractor.exe
+c:\users\niki\documents\visual studio 2015\Projects\RegularExpression\4.0SentanceExtractor\obj\Debug\4.0SentanceExtractor.pdb
