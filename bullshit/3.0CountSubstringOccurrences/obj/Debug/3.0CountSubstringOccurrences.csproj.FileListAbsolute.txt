@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2013\Projects\Strings And Text Processing\3.0CountSubstringOccurrences\bin\Debug\3.0CountSubstringOccurrences.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\Strings And Text Processing\3.0CountSubstringOccurrences\bin\Debug\3.0CountSubstringOccurrences.exe
+c:\users\niki\documents\visual studio 2013\Projects\Strings And Text Processing\3.0CountSubstringOccurrences\bin\Debug\3.0CountSubstringOccurrences.pdb
+c:\users\niki\documents\visual studio 2013\Projects\Strings And Text Processing\3.0CountSubstringOccurrences\obj\Debug\3.0CountSubstringOccurrences.exe
+c:\users\niki\documents\visual studio 2013\Projects\Strings And Text Processing\3.0CountSubstringOccurrences\obj\Debug\3.0CountSubstringOccurrences.pdb

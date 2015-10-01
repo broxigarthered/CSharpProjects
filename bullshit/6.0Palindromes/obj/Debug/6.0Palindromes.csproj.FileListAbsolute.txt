@@ -1,0 +1,8 @@
+c:\users\niki\documents\visual studio 2013\Projects\Strings And Text Processing\6.0Palindromes\bin\Debug\6.0Palindromes.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\Strings And Text Processing\6.0Palindromes\bin\Debug\6.0Palindromes.exe
+c:\users\niki\documents\visual studio 2013\Projects\Strings And Text Processing\6.0Palindromes\bin\Debug\6.0Palindromes.pdb
+c:\users\niki\documents\visual studio 2013\Projects\Strings And Text Processing\6.0Palindromes\obj\Debug\6.0Palindromes.exe
+c:\users\niki\documents\visual studio 2013\Projects\Strings And Text Processing\6.0Palindromes\obj\Debug\6.0Palindromes.pdb
+D:\Projects\Projects\Strings and Text Processing\6.0Palindromes\bin\Debug\6.0Palindromes.exe.config
+D:\Projects\Projects\Strings and Text Processing\6.0Palindromes\obj\Debug\6.0Palindromes.exe
+D:\Projects\Projects\Strings and Text Processing\6.0Palindromes\obj\Debug\6.0Palindromes.pdb

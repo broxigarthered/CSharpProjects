@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2013\Projects\Strings And Text Processing\4.0TextFIlter\bin\Debug\4.0TextFIlter.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\Strings And Text Processing\4.0TextFIlter\bin\Debug\4.0TextFIlter.exe
+c:\users\niki\documents\visual studio 2013\Projects\Strings And Text Processing\4.0TextFIlter\bin\Debug\4.0TextFIlter.pdb
+c:\users\niki\documents\visual studio 2013\Projects\Strings And Text Processing\4.0TextFIlter\obj\Debug\4.0TextFIlter.exe
+c:\users\niki\documents\visual studio 2013\Projects\Strings And Text Processing\4.0TextFIlter\obj\Debug\4.0TextFIlter.pdb
