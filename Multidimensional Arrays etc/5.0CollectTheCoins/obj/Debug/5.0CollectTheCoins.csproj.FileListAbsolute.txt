@@ -1,0 +1,6 @@
+C:\Users\Niki\documents\visual studio 2013\Projects\Multidimensional Arrays etc\5.0CollectTheCoins\bin\Debug\5.0CollectTheCoins.exe.config
+C:\Users\Niki\documents\visual studio 2013\Projects\Multidimensional Arrays etc\5.0CollectTheCoins\bin\Debug\5.0CollectTheCoins.exe
+C:\Users\Niki\documents\visual studio 2013\Projects\Multidimensional Arrays etc\5.0CollectTheCoins\bin\Debug\5.0CollectTheCoins.pdb
+C:\Users\Niki\documents\visual studio 2013\Projects\Multidimensional Arrays etc\5.0CollectTheCoins\obj\Debug\5.0CollectTheCoins.csprojResolveAssemblyReference.cache
+C:\Users\Niki\documents\visual studio 2013\Projects\Multidimensional Arrays etc\5.0CollectTheCoins\obj\Debug\5.0CollectTheCoins.exe
+C:\Users\Niki\documents\visual studio 2013\Projects\Multidimensional Arrays etc\5.0CollectTheCoins\obj\Debug\5.0CollectTheCoins.pdb

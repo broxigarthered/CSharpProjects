@@ -1,0 +1,6 @@
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\2.0BasketBattle\bin\Debug\2.0BasketBattle.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\2.0BasketBattle\bin\Debug\2.0BasketBattle.exe
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\2.0BasketBattle\bin\Debug\2.0BasketBattle.pdb
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\2.0BasketBattle\obj\Debug\2.0BasketBattle.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\2.0BasketBattle\obj\Debug\2.0BasketBattle.exe
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\2.0BasketBattle\obj\Debug\2.0BasketBattle.pdb

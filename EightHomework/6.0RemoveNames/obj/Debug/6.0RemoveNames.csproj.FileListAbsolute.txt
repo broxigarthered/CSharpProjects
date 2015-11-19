@@ -1,0 +1,6 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\6.0RemoveNames\bin\Debug\6.0RemoveNames.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\6.0RemoveNames\bin\Debug\6.0RemoveNames.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\6.0RemoveNames\bin\Debug\6.0RemoveNames.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\6.0RemoveNames\obj\Debug\6.0RemoveNames.csprojResolveAssemblyReference.cache
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\6.0RemoveNames\obj\Debug\6.0RemoveNames.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\6.0RemoveNames\obj\Debug\6.0RemoveNames.pdb

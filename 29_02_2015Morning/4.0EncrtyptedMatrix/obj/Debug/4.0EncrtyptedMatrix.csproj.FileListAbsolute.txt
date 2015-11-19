@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\4.0EncrtyptedMatrix\bin\Debug\4.0EncrtyptedMatrix.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\4.0EncrtyptedMatrix\bin\Debug\4.0EncrtyptedMatrix.exe
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\4.0EncrtyptedMatrix\bin\Debug\4.0EncrtyptedMatrix.pdb
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\4.0EncrtyptedMatrix\obj\Debug\4.0EncrtyptedMatrix.exe
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\4.0EncrtyptedMatrix\obj\Debug\4.0EncrtyptedMatrix.pdb

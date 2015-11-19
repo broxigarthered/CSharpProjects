@@ -1,0 +1,6 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\7.0LongestWordInAText\bin\Debug\7.0LongestWordInAText.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\7.0LongestWordInAText\bin\Debug\7.0LongestWordInAText.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\7.0LongestWordInAText\bin\Debug\7.0LongestWordInAText.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\7.0LongestWordInAText\obj\Debug\8.0LongestWordInAText.csprojResolveAssemblyReference.cache
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\7.0LongestWordInAText\obj\Debug\7.0LongestWordInAText.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\7.0LongestWordInAText\obj\Debug\7.0LongestWordInAText.pdb

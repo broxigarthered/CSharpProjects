@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2013\Projects\EightHomework\1.0DifferenceBetweenDates\bin\Debug\1.0DifferenceBetweenDates.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\EightHomework\1.0DifferenceBetweenDates\bin\Debug\1.0DifferenceBetweenDates.exe
+c:\users\niki\documents\visual studio 2013\Projects\EightHomework\1.0DifferenceBetweenDates\bin\Debug\1.0DifferenceBetweenDates.pdb
+c:\users\niki\documents\visual studio 2013\Projects\EightHomework\1.0DifferenceBetweenDates\obj\Debug\1.0DifferenceBetweenDates.exe
+c:\users\niki\documents\visual studio 2013\Projects\EightHomework\1.0DifferenceBetweenDates\obj\Debug\1.0DifferenceBetweenDates.pdb

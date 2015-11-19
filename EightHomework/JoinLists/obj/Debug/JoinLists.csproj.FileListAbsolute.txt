@@ -1,0 +1,6 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\JoinLists\bin\Debug\JoinLists.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\JoinLists\bin\Debug\JoinLists.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\JoinLists\bin\Debug\JoinLists.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\JoinLists\obj\Debug\JoinLists.csprojResolveAssemblyReference.cache
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\JoinLists\obj\Debug\JoinLists.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\JoinLists\obj\Debug\JoinLists.pdb

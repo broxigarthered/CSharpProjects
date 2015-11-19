@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2013\Projects\Multidimensional Arrays etc\2.0MaximalSum\bin\Debug\2.0MaximalSum.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\Multidimensional Arrays etc\2.0MaximalSum\bin\Debug\2.0MaximalSum.exe
+c:\users\niki\documents\visual studio 2013\Projects\Multidimensional Arrays etc\2.0MaximalSum\bin\Debug\2.0MaximalSum.pdb
+c:\users\niki\documents\visual studio 2013\Projects\Multidimensional Arrays etc\2.0MaximalSum\obj\Debug\2.0MaximalSum.exe
+c:\users\niki\documents\visual studio 2013\Projects\Multidimensional Arrays etc\2.0MaximalSum\obj\Debug\2.0MaximalSum.pdb

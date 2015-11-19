@@ -1,0 +1,3 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\testtest\bin\Debug\testtest.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\testtest\obj\Debug\testtest.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\testtest\obj\Debug\testtest.pdb

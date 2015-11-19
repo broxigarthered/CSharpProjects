@@ -1,0 +1,6 @@
+c:\users\niki\documents\visual studio 2013\Projects\EightHomework\3.0LongestAreaInArray\bin\Debug\3.0LongestAreaInArray.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\3.0LongestAreaInArray\bin\Debug\3.0LongestAreaInArray.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\3.0LongestAreaInArray\bin\Debug\3.0LongestAreaInArray.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\3.0LongestAreaInArray\obj\Debug\3.0LongestAreaInArray.csprojResolveAssemblyReference.cache
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\3.0LongestAreaInArray\obj\Debug\3.0LongestAreaInArray.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\3.0LongestAreaInArray\obj\Debug\3.0LongestAreaInArray.pdb

@@ -1,0 +1,6 @@
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\1.0TorrentPIrate\bin\Debug\1.0TorrentPIrate.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\1.0TorrentPIrate\bin\Debug\1.0TorrentPIrate.exe
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\1.0TorrentPIrate\bin\Debug\1.0TorrentPIrate.pdb
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\1.0TorrentPIrate\obj\Debug\1.0TorrentPIrate.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\1.0TorrentPIrate\obj\Debug\1.0TorrentPIrate.exe
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\1.0TorrentPIrate\obj\Debug\1.0TorrentPIrate.pdb

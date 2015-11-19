@@ -1,0 +1,6 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Snake\FallingStonesReal\bin\Debug\FallingStonesReal.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Snake\FallingStonesReal\bin\Debug\FallingStonesReal.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Snake\FallingStonesReal\bin\Debug\FallingStonesReal.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Snake\FallingStonesReal\obj\Debug\FallingStonesReal.csprojResolveAssemblyReference.cache
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Snake\FallingStonesReal\obj\Debug\FallingStonesReal.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Snake\FallingStonesReal\obj\Debug\FallingStonesReal.pdb

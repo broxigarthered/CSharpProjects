@@ -1,0 +1,5 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\5.0Longest Non-Decreasing Subsequence\bin\Debug\5.0Longest Non-Decreasing Subsequence.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\5.0Longest Non-Decreasing Subsequence\bin\Debug\5.0Longest Non-Decreasing Subsequence.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\5.0Longest Non-Decreasing Subsequence\bin\Debug\5.0Longest Non-Decreasing Subsequence.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\5.0Longest Non-Decreasing Subsequence\obj\Debug\5.0Longest Non-Decreasing Subsequence.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\5.0Longest Non-Decreasing Subsequence\obj\Debug\5.0Longest Non-Decreasing Subsequence.pdb

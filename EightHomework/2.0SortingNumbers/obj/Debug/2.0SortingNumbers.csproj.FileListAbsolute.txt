@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2013\Projects\EightHomework\2.0SortingNumbers\bin\Debug\2.0SortingNumbers.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\EightHomework\2.0SortingNumbers\bin\Debug\2.0SortingNumbers.exe
+c:\users\niki\documents\visual studio 2013\Projects\EightHomework\2.0SortingNumbers\bin\Debug\2.0SortingNumbers.pdb
+c:\users\niki\documents\visual studio 2013\Projects\EightHomework\2.0SortingNumbers\obj\Debug\2.0SortingNumbers.exe
+c:\users\niki\documents\visual studio 2013\Projects\EightHomework\2.0SortingNumbers\obj\Debug\2.0SortingNumbers.pdb

@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\5.0TEST\bin\Debug\5.0TEST.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\5.0TEST\bin\Debug\5.0TEST.exe
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\5.0TEST\bin\Debug\5.0TEST.pdb
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\5.0TEST\obj\Debug\5.0TEST.exe
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\5.0TEST\obj\Debug\5.0TEST.pdb

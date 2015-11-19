@@ -1,0 +1,6 @@
+c:\users\niki\documents\visual studio 2013\Projects\Multidimensional Arrays etc\3.0MatrixShufling\bin\Debug\3.0MatrixShufling.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\Multidimensional Arrays etc\3.0MatrixShufling\bin\Debug\3.0MatrixShufling.exe
+c:\users\niki\documents\visual studio 2013\Projects\Multidimensional Arrays etc\3.0MatrixShufling\bin\Debug\3.0MatrixShufling.pdb
+c:\users\niki\documents\visual studio 2013\Projects\Multidimensional Arrays etc\3.0MatrixShufling\obj\Debug\3.0MatrixShuffling.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2013\Projects\Multidimensional Arrays etc\3.0MatrixShufling\obj\Debug\3.0MatrixShufling.exe
+c:\users\niki\documents\visual studio 2013\Projects\Multidimensional Arrays etc\3.0MatrixShufling\obj\Debug\3.0MatrixShufling.pdb

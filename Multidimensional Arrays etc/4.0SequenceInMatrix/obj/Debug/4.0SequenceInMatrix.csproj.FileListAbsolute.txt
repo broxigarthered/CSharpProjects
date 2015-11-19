@@ -1,0 +1,6 @@
+C:\Users\Niki\documents\visual studio 2013\Projects\Multidimensional Arrays etc\4.0SequenceInMatrix\bin\Debug\4.0SequenceInMatrix.exe.config
+C:\Users\Niki\documents\visual studio 2013\Projects\Multidimensional Arrays etc\4.0SequenceInMatrix\bin\Debug\4.0SequenceInMatrix.exe
+C:\Users\Niki\documents\visual studio 2013\Projects\Multidimensional Arrays etc\4.0SequenceInMatrix\bin\Debug\4.0SequenceInMatrix.pdb
+C:\Users\Niki\documents\visual studio 2013\Projects\Multidimensional Arrays etc\4.0SequenceInMatrix\obj\Debug\4.0SequenceInMatrix.exe
+C:\Users\Niki\documents\visual studio 2013\Projects\Multidimensional Arrays etc\4.0SequenceInMatrix\obj\Debug\4.0SequenceInMatrix.pdb
+C:\Users\Niki\documents\visual studio 2013\Projects\Multidimensional Arrays etc\4.0SequenceInMatrix\obj\Debug\4.0SequenceInMatrix.csprojResolveAssemblyReference.cache

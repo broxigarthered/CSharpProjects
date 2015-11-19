@@ -1,0 +1,6 @@
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\3.0Dumbbell\bin\Debug\3.0Dumbbell.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\3.0Dumbbell\bin\Debug\3.0Dumbbell.exe
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\3.0Dumbbell\bin\Debug\3.0Dumbbell.pdb
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\3.0Dumbbell\obj\Debug\3.0Dumbbell.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\3.0Dumbbell\obj\Debug\3.0Dumbbell.exe
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\3.0Dumbbell\obj\Debug\3.0Dumbbell.pdb

@@ -1,0 +1,6 @@
+c:\users\niki\documents\visual studio 2013\Projects\EightHomework\EightHomework\bin\Debug\EightHomework.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\EightHomework\EightHomework\bin\Debug\EightHomework.exe
+c:\users\niki\documents\visual studio 2013\Projects\EightHomework\EightHomework\bin\Debug\EightHomework.pdb
+c:\users\niki\documents\visual studio 2013\Projects\EightHomework\EightHomework\obj\Debug\EightHomework.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2013\Projects\EightHomework\EightHomework\obj\Debug\EightHomework.exe
+c:\users\niki\documents\visual studio 2013\Projects\EightHomework\EightHomework\obj\Debug\EightHomework.pdb

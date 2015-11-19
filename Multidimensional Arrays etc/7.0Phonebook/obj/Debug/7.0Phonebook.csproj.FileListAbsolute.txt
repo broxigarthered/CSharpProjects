@@ -1,0 +1,6 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Multidimensional Arrays etc\7.0Phonebook\bin\Debug\7.0Phonebook.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Multidimensional Arrays etc\7.0Phonebook\bin\Debug\7.0Phonebook.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Multidimensional Arrays etc\7.0Phonebook\bin\Debug\7.0Phonebook.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Multidimensional Arrays etc\7.0Phonebook\obj\Debug\7.0Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Multidimensional Arrays etc\7.0Phonebook\obj\Debug\7.0Phonebook.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Multidimensional Arrays etc\7.0Phonebook\obj\Debug\7.0Phonebook.pdb

@@ -1,0 +1,6 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Multidimensional Arrays etc\7.0TerroristWin\bin\Debug\7.0TerroristWin.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Multidimensional Arrays etc\7.0TerroristWin\bin\Debug\7.0TerroristWin.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Multidimensional Arrays etc\7.0TerroristWin\bin\Debug\7.0TerroristWin.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Multidimensional Arrays etc\7.0TerroristWin\obj\Debug\7.0TerroristWin.csprojResolveAssemblyReference.cache
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Multidimensional Arrays etc\7.0TerroristWin\obj\Debug\7.0TerroristWin.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Multidimensional Arrays etc\7.0TerroristWin\obj\Debug\7.0TerroristWin.pdb

@@ -1,0 +1,6 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\9.0ExtractURLsFromText\bin\Debug\9.0ExtractURLsFromText.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\9.0ExtractURLsFromText\bin\Debug\9.0ExtractURLsFromText.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\9.0ExtractURLsFromText\bin\Debug\9.0ExtractURLsFromText.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\9.0ExtractURLsFromText\obj\Debug\9.0ExtractURLsFromText.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\9.0ExtractURLsFromText\obj\Debug\9.0ExtractURLsFromText.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\9.0ExtractURLsFromText\obj\Debug\9.0ExtractURLsFromText.csprojResolveAssemblyReference.cache

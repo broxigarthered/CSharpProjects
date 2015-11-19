@@ -1,0 +1,5 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\4.0MatrixOfPalindromes\bin\Debug\4.0MatrixOfPalindromes.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\4.0MatrixOfPalindromes\bin\Debug\4.0MatrixOfPalindromes.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\4.0MatrixOfPalindromes\bin\Debug\4.0MatrixOfPalindromes.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\4.0MatrixOfPalindromes\obj\Debug\4.0MatrixOfPalindromes.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\EightHomework\4.0MatrixOfPalindromes\obj\Debug\4.0MatrixOfPalindromes.pdb

@@ -1,0 +1,6 @@
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Multidimensional Arrays etc\6.0CountSymbols\bin\Debug\6.0CountSymbols.exe.config
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Multidimensional Arrays etc\6.0CountSymbols\bin\Debug\6.0CountSymbols.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Multidimensional Arrays etc\6.0CountSymbols\bin\Debug\6.0CountSymbols.pdb
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Multidimensional Arrays etc\6.0CountSymbols\obj\Debug\6.0CountSymbols.csprojResolveAssemblyReference.cache
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Multidimensional Arrays etc\6.0CountSymbols\obj\Debug\6.0CountSymbols.exe
+C:\Users\Niki\Documents\Visual Studio 2013\Projects\Multidimensional Arrays etc\6.0CountSymbols\obj\Debug\6.0CountSymbols.pdb

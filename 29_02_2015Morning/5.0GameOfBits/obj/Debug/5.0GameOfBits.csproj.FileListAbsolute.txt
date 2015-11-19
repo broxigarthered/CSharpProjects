@@ -1,0 +1,6 @@
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\5.0GameOfBits\bin\Debug\5.0GameOfBits.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\5.0GameOfBits\bin\Debug\5.0GameOfBits.exe
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\5.0GameOfBits\bin\Debug\5.0GameOfBits.pdb
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\5.0GameOfBits\obj\Debug\5.0GameOfBits.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\5.0GameOfBits\obj\Debug\5.0GameOfBits.exe
+c:\users\niki\documents\visual studio 2013\Projects\29_02_2015Morning\5.0GameOfBits\obj\Debug\5.0GameOfBits.pdb
